@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except .gitignore and .claude/skills
+!.gitignore
+!.claude/
+.claude/*
+!.claude/skills/
+!.claude/skills/**
